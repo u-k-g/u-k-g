@@ -1,3 +1,5 @@
+<img src="./assets/banner-blob" align="center" width="344"/>
+
 <img src="./assets/logo.png" align="left" width="200"/>
 
 ### `uzair`
