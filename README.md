@@ -1,4 +1,4 @@
-<img src="./assets/banner-blob.jpeg" align="center" width="200"/>
+<img src="./assets/bannerblobround.png" align="center" width="200"/>
 
 <img src="./assets/logoround.png" align="left" width="200"/>
 
