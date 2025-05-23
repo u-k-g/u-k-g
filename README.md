@@ -1,6 +1,6 @@
 <img src="./assets/bannerblobround.png" align="center" width="200"/>
 
-<img src="./assets/logoround.png" align="left" width="200"/>
+<img src="./assets/zigice.png" align="left" width="200"/>
 
 ### `uzair`
 
